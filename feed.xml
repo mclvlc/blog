@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/blog//</link>
     <atom:link href="http://localhost:4000/blog//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Feb 2025 16:53:11 +0800</pubDate>
-    <lastBuildDate>Wed, 26 Feb 2025 16:53:11 +0800</lastBuildDate>
+    <pubDate>Wed, 26 Feb 2025 18:35:50 +0800</pubDate>
+    <lastBuildDate>Wed, 26 Feb 2025 18:35:50 +0800</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -24,6 +24,7 @@
   &lt;li&gt;按钮改为长条状圆形&lt;/li&gt;
   &lt;li&gt;在网页里添加了指向这个页面的链接&lt;/li&gt;
   &lt;li&gt;给图片添加了框框&lt;/li&gt;
+  &lt;li&gt;将字体换为了 站酷快乐体2016修订版&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;2碎碎念&quot;&gt;2.碎碎念&lt;/h2&gt;
