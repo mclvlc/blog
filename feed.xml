@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>依一的博客</title>
+    <description>是否有一天，我可以在自己的世界里，拥有自己的时间，拥有自己的生命。
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 26 Feb 2025 16:35:08 +0800</pubDate>
+    <lastBuildDate>Wed, 26 Feb 2025 16:35:08 +0800</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>“你愿意成为我的小狗吗？”网站更新日志&amp;碎碎念</title>
+        <description>&lt;p&gt;你好，我是依一，&lt;a href=&quot;https://mclvlc.github.io/doge&quot;&gt;网站链接&lt;/a&gt;的作者。&lt;/p&gt;
+
+&lt;h2 id=&quot;1更新日志&quot;&gt;1.更新日志&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;重写了整个页面&lt;/li&gt;
+  &lt;li&gt;修复了电脑端按钮不会随机移动到左上角的bug&lt;/li&gt;
+  &lt;li&gt;为按钮的移动添加了运动模糊（伪）&lt;/li&gt;
+  &lt;li&gt;按钮移动改为30次，每次0.1秒&lt;/li&gt;
+  &lt;li&gt;按钮改为长条状圆形&lt;/li&gt;
+  &lt;li&gt;在网页里添加了指向这个页面的链接&lt;/li&gt;
+  &lt;li&gt;给图片添加了框框&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2碎碎念&quot;&gt;2.碎碎念&lt;/h2&gt;
+
+&lt;p&gt;前阵子，刷抖音的时候突然刷到自己的这个网站，经过询问后才知道我的网站已经进入某人的网站合集了…网站比本人火系列是吧&lt;/p&gt;
+
+&lt;center&gt;（抖音↓）
+
+&lt;img src=&quot;https://s2.loli.net/2025/02/26/Upik5d2hDWgR1PY.jpg&quot; alt=&quot;抖音&quot; style=&quot;zoom:25%;&quot; /&gt;
+
+&lt;center&gt;（小红书↓）
+
+&lt;img src=&quot;https://s2.loli.net/2025/02/26/GLoM6Oswlx2WcnY.jpg&quot; alt=&quot;小红书&quot; style=&quot;zoom: 25%;&quot; /&gt;
+
+也是思绪万千，希望转载我网站时标上作者，缺没人搭理，只能在网站里加上这个博客了，我第一次搭建博客，竟然是为了这种事。。。
+
+最后希望转发我的网站时&lt;font color=&quot;red&quot; size=&quot;4&quot;&gt;不要倒卖！不要倒卖！不要倒卖！本网站完全免费&lt;/font&gt;
+&lt;/center&gt;&lt;/center&gt;
+</description>
+        <pubDate>Wed, 26 Feb 2025 16:32:07 +0800</pubDate>
+        <link>http://localhost:4000/jekyll/update/2025/02/26/%E4%BD%A0%E6%84%BF%E6%84%8F%E6%88%90%E4%B8%BA%E6%88%91%E7%9A%84%E5%B0%8F%E7%8B%97%E5%90%97-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97&%E7%A2%8E%E7%A2%8E%E5%BF%B5.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2025/02/26/%E4%BD%A0%E6%84%BF%E6%84%8F%E6%88%90%E4%B8%BA%E6%88%91%E7%9A%84%E5%B0%8F%E7%8B%97%E5%90%97-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97&%E7%A2%8E%E7%A2%8E%E5%BF%B5.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
